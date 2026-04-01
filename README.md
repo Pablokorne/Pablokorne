@@ -1,27 +1,10 @@
-# 👋 Привет, я Павел Корнев
-
+# Привет 👋, меня зовут Павел!
+Обо мне:
 QA Engineer с коммерческим опытом тестирования веб-приложений и REST API в финтех-домене.  
 Основная специализация — ручное тестирование, анализ бизнес-логики и проверка данных.  
 Развиваюсь в автоматизации (Python).
 
 ---
-
-## 🛠️ Технологии и инструменты
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-E8478B?logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
-</p>
-
----
-
 ## 💼 Коммерческий опыт
 
 **Manual QA Engineer — Lime Credit Group**  
@@ -35,7 +18,6 @@ QA Engineer с коммерческим опытом тестирования в
 - Тестирование REST API  
 - Проверка данных в БД  
 - Регистрация и сопровождение багов (Jira)  
-
 ### Особенности:
 - Работа со сложной бизнес-логикой (финансовые расчёты)  
 - Участие в 3-amigo сессиях  
@@ -56,32 +38,28 @@ https://github.com/Pablokorne/Postman
 
 ---
 
-## 💬 Как я работаю
-
-- Начинаю с анализа требований и поиска рисков  
-- Проверяю систему на уровне UI, API и БД  
-- Особое внимание уделяю бизнес-логике и данным  
-- Использую логи для диагностики проблем  
-- Стараюсь находить причины дефектов, а не только фиксировать их  
-
----
-
 ## 🚀 В развитии
 
 - Автоматизация тестирования
   - Python (pytest, API)
 - Улучшение навыков тест-дизайна  
 - Изучение архитектуры автотестов  
-
 ---
+## 🛠️ Технологии и инструменты
 
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-E8478B?logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
+</p>
+---
 ## 📫 Контакты
 
 - Telegram: Kornev_Pablo  
 - Email: pashasegak@yandex.ru  
-
----
-
-## ⚡ Цель
-
-Развиваться в сторону QA Automation Engineer, сохраняя сильную экспертизу в ручном тестировании и глубоком анализе продукта.
