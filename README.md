@@ -40,15 +40,7 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 
 <h3 align="center">📫 Контакты</h3>
 <p align="center">
-<a href="https://t.me/Kornev_Pablo">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/>
-</a>
-<a href="mailto:pashasegak@yandex.ru">
-  <img src="https://img.shields.io/badge/Email-Yandex-red"/>
-</a>
-<a href="https://hh.ru/resume/ТВОЙ_ID">
-  <img src="https://img.shields.io/badge/HeadHunter-FF0000"/>
-</a>
+<a href="https://t.me/Kornev_Pablo"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/></a> <a href="mailto:pashasegak@yandex.ru"><img src="https://img.shields.io/badge/Email-Yandex-red"/></a> <a href="https://hh.ru/resume/ТВОЙ_ID"><img src="https://img.shields.io/badge/HeadHunter-FF0000"/></a> <a href="https://max.ru/u/f9LHodD0cOKbjUY0c0ixYKyvxuNufToBrYoc7easZXgfAiBUgxfffEYAq7w"><img src="https://img.shields.io/badge/MAX-8A2BE2?logoColor=white"/></a>
 </p>
 
 ---
