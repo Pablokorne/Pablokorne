@@ -60,16 +60,13 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 
 ---
 
-
 <h3>📊 GitHub статистика</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablokorne&locale=ru"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=Pablokorne&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" height="150"/>
 </p>
 
-
-
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablokorne&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="120"/>
 </p>
