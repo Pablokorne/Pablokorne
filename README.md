@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Pablokorne/gif/blob/main/Bruno%20Pixels.gif?raw=true" width="1000"/>
+  <img src="https://github.com/Pablokorne/gif/blob/main/Animated%20Pixel%20Art%20Creations%20by%20Kirokaze%20_%20Inspiration%20Grid.gif?raw=true" width="1000"/>
 </p>
 
 # Привет 👋, меня зовут Павел!
