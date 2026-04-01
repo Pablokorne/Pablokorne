@@ -1,4 +1,6 @@
-![gif](https://github.com/Pablokorne/gif/blob/main/загруженное.gif?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pablokorne/qa/main/mejwh.gif" width="1500"/>
+</p>
 
 # Привет 👋, меня зовут Павел!
 ### Обо мне:  
