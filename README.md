@@ -29,8 +29,8 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 <img src="https://img.shields.io/badge/TestIT-4B32C3?logoColor=white"/>
 </p>   
 ### 🚀 В развитии  
-- Автоматизация тестирования
-  - Python (pytest, API)
+- Автоматизация тестирования  
+- Python (pytest, API)
   
 ### 📂 Примеры работ
 
@@ -38,7 +38,7 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 
 ---
 
-<h2 align="center">📫 Контакты</h2>
+<h3 align="center">📫 Контакты</h3>
 <p align="center">
 <a href="https://t.me/Kornev_Pablo">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/>
