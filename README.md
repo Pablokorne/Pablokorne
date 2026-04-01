@@ -2,6 +2,10 @@
   <img src="https://github.com/Pablokorne/gif/blob/main/загруженное%20(1).gif?raw=true" width="1000"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pablokorne&color=0e75b6" />
+</p>
+
 # Привет 👋, меня зовут Павел!
 ### 👨‍💻Обо мне:  
 QA Engineer с опытом 2 года в финтехе (web + REST API).  
