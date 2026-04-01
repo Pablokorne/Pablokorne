@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif?utm_source=Pinterest&utm_medium=organic"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ0ank2bnI2OHZ1amZxZ3V3N2tkOGh3OHZ0bmxqamlrN3lwazJ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"/>
 </p>
 
 # Привет 👋, меня зовут Павел!
