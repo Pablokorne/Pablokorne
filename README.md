@@ -6,7 +6,6 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 ### 💼 Коммерческий опыт  
 **Manual QA Engineer — Lime Credit Group (ООО «ФТС»)**  
 **Проект "РМЦ"** -система сопровождения судебного взыскания задолженностей  
-
 ### Задачи:
 - Тестирование REST API (Postman, Swagger)  
 - Проверка бизнес-логики расчётов  
@@ -14,7 +13,6 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 - Функциональное и интеграционное тестирование  
 - Анализ требований (Confluence)  
 - Регистрация багов (Jira)
-- 
 ### 🛠️ Технологии и инструменты  
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
@@ -30,7 +28,6 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestIT-4B32C3?logoColor=white"/>
 </p>   
-
 ### 📊 GitHub статистика  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
 
