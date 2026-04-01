@@ -22,24 +22,23 @@ QA Engineer с коммерческим опытом тестирования в
 ## 📂 Примеры работ
 
 🔹 Postman коллекции:  
+
 ## 🛠️ Технологии и инструменты  
+
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kibana-E8478B?logo=elastic&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestIT-4B32C3?logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
-</p> 
+</p>
+
 <h2 align="center">📫 Контакты</h2>
 
 <p align="center">
