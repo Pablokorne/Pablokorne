@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif?utm_source=Pinterest&utm_medium=organic"/>
+</p>
+
 # Привет 👋, меня зовут Павел!
 ### Обо мне:  
 QA Engineer с опытом 2 года в финтехе (web + REST API).  
