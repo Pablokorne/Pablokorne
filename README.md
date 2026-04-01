@@ -1,8 +1,8 @@
 # Привет 👋, меня зовут Павел!
 ### Обо мне:  
-QA Engineer с коммерческим опытом тестирования веб-приложений и REST API в финтех-домене.  
-Основная специализация — ручное тестирование, анализ бизнес-логики и проверка данных.  
-Развиваюсь в автоматизации (Python).  
+QA Engineer с опытом 2 года в финтехе (web + REST API).
+Фокус: бизнес-логика, API и проверка данных.  
+🔭 В поиске работы 🕵️
 ### 💼 Коммерческий опыт  
 **Manual QA Engineer — Lime Credit Group (ООО «ФТС»)**  
 **Проект "РМЦ"** -система сопровождения судебного взыскания задолженностей  
@@ -13,18 +13,9 @@ QA Engineer с коммерческим опытом тестирования в
 - Проверка данных в БД (SQL: SELECT, JOIN)  
 - Функциональное и интеграционное тестирование  
 - Анализ требований (Confluence)  
-- Регистрация багов (Jira)    
-### 📊 GitHub статистика  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
-### 🚀 В развитии  
-- Автоматизация тестирования
-  - Python (pytest, API)
-### 📂 Примеры работ
-
-🔹 Postman коллекции:  
-
+- Регистрация багов (Jira)
+- 
 ### 🛠️ Технологии и инструменты  
-
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"/>
@@ -37,7 +28,21 @@ QA Engineer с коммерческим опытом тестирования в
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/TestIT-4B32C3?logoColor=white"/>
+</p>   
+
+### 📊 GitHub статистика  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
+
+### 🚀 В развитии  
+- Автоматизация тестирования
+  - Python (pytest, API)
+  
+### 📂 Примеры работ
+
+🔹 Postman коллекции:  
+
+
 
 <h2 align="center">📫 Контакты</h2>
 
