@@ -1,5 +1,5 @@
 # Привет 👋, меня зовут Павел!
-Обо мне:
+Обо мне: 
 QA Engineer с коммерческим опытом тестирования веб-приложений и REST API в финтех-домене.  
 Основная специализация — ручное тестирование, анализ бизнес-логики и проверка данных.  
 Развиваюсь в автоматизации (Python).
@@ -58,7 +58,7 @@ https://github.com/Pablokorne/Postman
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
 </p>
----
+
 ## 📫 Контакты
 
 - Telegram: Kornev_Pablo  
