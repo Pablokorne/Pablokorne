@@ -34,8 +34,10 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
   
 ### 📂 Примеры работ
 
-🔹 Postman коллекции:  
+🔹 Postman коллекции: 
+
 ---
+
 <h2 align="center">📫 Контакты</h2>
 <p align="center">
 <a href="https://t.me/Kornev_Pablo">
