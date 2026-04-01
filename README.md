@@ -37,7 +37,6 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 🔹 Postman коллекции:  
 ---
 <h2 align="center">📫 Контакты</h2>
-
 <p align="center">
 <a href="https://t.me/Kornev_Pablo">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/>
@@ -49,6 +48,8 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
   <img src="https://img.shields.io/badge/HeadHunter-FF0000"/>
 </a>
 </p>
+
 ---
-### 📊 GitHub статистика  
+
+## 📊 GitHub статистика  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
