@@ -28,9 +28,6 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestIT-4B32C3?logoColor=white"/>
 </p>   
-### 📊 GitHub статистика  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
-
 ### 🚀 В развитии  
 - Автоматизация тестирования
   - Python (pytest, API)
@@ -38,9 +35,7 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 ### 📂 Примеры работ
 
 🔹 Postman коллекции:  
-
-
-
+---
 <h2 align="center">📫 Контакты</h2>
 
 <p align="center">
@@ -54,3 +49,6 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
   <img src="https://img.shields.io/badge/HeadHunter-FF0000"/>
 </a>
 </p>
+---
+### 📊 GitHub статистика  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
