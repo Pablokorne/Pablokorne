@@ -1,10 +1,9 @@
 # Привет 👋, меня зовут Павел!
-Обо мне: 
+**Обо мне:**  
 QA Engineer с коммерческим опытом тестирования веб-приложений и REST API в финтех-домене.  
 Основная специализация — ручное тестирование, анализ бизнес-логики и проверка данных.  
 Развиваюсь в автоматизации (Python).
 
----
 ## 💼 Коммерческий опыт
 
 **Manual QA Engineer — Lime Credit Group**  
@@ -23,18 +22,14 @@ QA Engineer с коммерческим опытом тестирования в
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)
 
----
-
 ## 🚀 В развитии
 
 - Автоматизация тестирования
   - Python (pytest, API)
-  - 
 ## 📂 Примеры работ
 
 🔹 Postman коллекции:  
-https://github.com/Pablokorne/Postman 
----
+
 ## 🛠️ Технологии и инструменты
 
 <p>
