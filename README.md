@@ -18,20 +18,7 @@ QA Engineer с коммерческим опытом тестирования в
 - Тестирование REST API  
 - Проверка данных в БД  
 - Регистрация и сопровождение багов (Jira)  
-### Особенности:
-- Работа со сложной бизнес-логикой (финансовые расчёты)  
-- Участие в 3-amigo сессиях  
-- Активное взаимодействие с разработчиками и аналитиками  
-
----
-
-## 📂 Примеры работ
-
-🔹 Postman коллекции:  
-https://github.com/Pablokorne/Postman  
-
----
-
+ 
 ## 📊 GitHub статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)
@@ -42,8 +29,11 @@ https://github.com/Pablokorne/Postman
 
 - Автоматизация тестирования
   - Python (pytest, API)
-- Улучшение навыков тест-дизайна  
-- Изучение архитектуры автотестов  
+  - 
+## 📂 Примеры работ
+
+🔹 Postman коллекции:  
+https://github.com/Pablokorne/Postman 
 ---
 ## 🛠️ Технологии и инструменты
 
