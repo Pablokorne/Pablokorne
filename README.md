@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Pablokorne/gif/blob/main/minimoss.gif?raw=true" width="1500"/>
+  <img src="https://github.com/Pablokorne/gif/blob/main/загруженное%20(1).gif?raw=true" width="1500"/>
 </p>
 
 # Привет 👋, меня зовут Павел!
