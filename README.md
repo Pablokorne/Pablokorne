@@ -2,36 +2,27 @@
 **Обо мне:**  
 QA Engineer с коммерческим опытом тестирования веб-приложений и REST API в финтех-домене.  
 Основная специализация — ручное тестирование, анализ бизнес-логики и проверка данных.  
-Развиваюсь в автоматизации (Python).
-
-## 💼 Коммерческий опыт
-
+Развиваюсь в автоматизации (Python).  
+## 💼 Коммерческий опыт  
 **Manual QA Engineer — Lime Credit Group**  
 Проект "РМЦ" - программное обеспечение для сопровождения работы специалистов по 
-судебному взысканию задолженностей, приобретённых по цессиям или по агентским сделкам. 
-
+судебному взысканию задолженностей, приобретённых по цессиям или по агентским сделкам.   
 ### Задачи:
 - Анализ и тестирование требований (Confluence)  
 - Функциональное и интеграционное тестирование  
 - Проверка бизнес-логики расчётов  
 - Тестирование REST API  
 - Проверка данных в БД  
-- Регистрация и сопровождение багов (Jira)  
- 
-## 📊 GitHub статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)
-
-## 🚀 В развитии
-
+- Регистрация и сопровождение багов (Jira)    
+## 📊 GitHub статистика  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
+## 🚀 В развитии  
 - Автоматизация тестирования
   - Python (pytest, API)
 ## 📂 Примеры работ
 
 🔹 Postman коллекции:  
-
-## 🛠️ Технологии и инструменты
-
+## 🛠️ Технологии и инструменты  
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"/>
@@ -42,8 +33,7 @@ QA Engineer с коммерческим опытом тестирования в
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
-</p>
-
+</p>  
 ## 📫 Контакты
 
 - Telegram: Kornev_Pablo  
