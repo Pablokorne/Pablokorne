@@ -30,7 +30,7 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestIT-4B32C3?logoColor=white"/>
+<img src="https://img.shields.io/badge/DevTools-4B32C3?logoColor=white"/>
 </p>   
 
 ### 🚀 В развитии  
