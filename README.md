@@ -3,7 +3,7 @@
 </p>
 
 # Привет 👋, меня зовут Павел!
-### Обо мне:  
+### 👨‍💻Обо мне:  
 QA Engineer с опытом 2 года в финтехе (web + REST API).  
 Фокус: бизнес-логика, API и проверка данных.  
 🔭 В поиске работы 🕵️
@@ -35,9 +35,13 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 
 ### 🚀 В развитии  
 
-- Автоматизация тестирования
-    
-- Python (pytest, API)
+- Осваиваю автоматизацию тестирования на Python  
+  - pytest (структура тестов, фикстуры)  
+  - API тестирование (requests)  
+  - UI автоматизация (Playwright
+
+![Python](https://img.shields.io/badge/Python-learning-blue)
+![QA](https://img.shields.io/badge/QA-Automation-green)
   
 ### 📂 Примеры работ
 
@@ -52,6 +56,16 @@ QA Engineer с опытом 2 года в финтехе (web + REST API).
 
 ---
 
-<h3>📊Статистика</h3> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablokorne&show_icons=true)  
+<h3>📊 GitHub статистика</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablokorne&locale=ru"/>
+  <img src="https://streak-stats.demolab.com?user=Pablokorne&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" height="150"/>
+</p>
+
+
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablokorne&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="120"/>
+</p>
